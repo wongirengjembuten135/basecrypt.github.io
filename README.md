@@ -4,9 +4,11 @@
 ![XChaCha20-Poly1305](https://img.shields.io/badge/XChaCha20--Poly1305-encrypt-orange)
 ![HMAC-SHA3-512](https://img.shields.io/badge/HMAC--SHA3--512-integrity-red)
 
-[BaseCrypt](https://basecrypt.github.io) — **A small, fully client-side tool for strongly protected text encryption.**
+![](https://github.com/BaseCrypt/basecrypt.github.io/releases/download/1.1/base.png)
 
-Cloud sucks, servers suck, everything sucks — so everything happens on your device, no bytes go anywhere.
+[BaseCrypt](https://basecrypt.github.io) — **A small, fully client-side tool for strongly protected text encryption.**  
+
+Cloud sucks, servers suck, everything sucks — so everything happens on yourұ device, no bytes go anywhere.
 
 ## What It Does
 Type text → set a passphrase → get a link like `#note=verylonggarbage`.  
@@ -17,7 +19,7 @@ No data leaves your device. Fully client-side.
 Works as long as github.io is up and you have the HTML file.
 By the way you can also just download a small HTML (3 MB)  
 
-[![Download HTML](https://img.shields.io/badge/Download-HTML-blue?style=for-the-badge)](https://github.com/basecrypt/basecrypt.github.io/releases/download/1.1/basecrypt.html)  
+[![Download HTML](https://img.shields.io/badge/Download-HTML-blue?style=for-the-badge)](https://github.com/basecrypt/basecrypt.github.io/releases/download/1.3/basecrypt.html)  
 SHA256: ``5f121b41fa8a699e0290d457a55404453f20a7624abc4ca9ca119dff01669c57``
 
 ## How It Works

@@ -17,7 +17,7 @@ No data leaves your device. Fully client-side.
 Works as long as github.io is up and you have the HTML file.
 By the way you can also just download a small HTML (3 MB)  
 
-[![Download HTML](https://github.com/BaseCrypt/basecrypt.github.io/releases/download/1.1/basecrypt.html)  
+[![Download HTML](https://img.shields.io/badge/Download-HTML-blue?style=for-the-badge)](https://github.com/BaseCrypt/basecrypt.github.io/releases/download/1.1/basecrypt.html)  
 SHA256: ``5f121b41fa8a699e0290d457a55404453f20a7624abc4ca9ca119dff01669c57``
 
 ## How It Works

